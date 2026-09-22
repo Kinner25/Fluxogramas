@@ -16,8 +16,20 @@
         <mxCell id="mlf9_5OnmiSD14kfnlEh-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler c1, d1, d2" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="mlf9_5OnmiSD14kfnlEh-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Distancia" vertex="1">
+        <mxCell id="7mtruNPkyria5GHBTWL3-3" edge="1" parent="1" source="mlf9_5OnmiSD14kfnlEh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7mtruNPkyria5GHBTWL3-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mlf9_5OnmiSD14kfnlEh-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Distancia=d2 - d1" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="7mtruNPkyria5GHBTWL3-5" edge="1" parent="1" source="7mtruNPkyria5GHBTWL3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7mtruNPkyria5GHBTWL3-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mtruNPkyria5GHBTWL3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cobustivelem100km= (c1 * 100) / Distancia" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7mtruNPkyria5GHBTWL3-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever Cobustivelem100km" vertex="1">
+          <mxGeometry height="60" width="144" x="342" y="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
