@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g9higvrCz6SW67p7wJMG-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;N1&quot;" vertex="1">
+        <mxCell id="g9higvrCz6SW67p7wJMG-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;O maior é N1&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="340" as="geometry" />
         </mxCell>
         <mxCell id="g9higvrCz6SW67p7wJMG-7" edge="1" parent="1" source="g9higvrCz6SW67p7wJMG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="g9higvrCz6SW67p7wJMG-4" value="">
@@ -80,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2MkmvABEXxrKTTSlJFyT-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;N2&quot;" vertex="1">
+        <mxCell id="2MkmvABEXxrKTTSlJFyT-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;O maior é&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;N2&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="460" as="geometry" />
         </mxCell>
         <mxCell id="2MkmvABEXxrKTTSlJFyT-19" edge="1" parent="1" source="2MkmvABEXxrKTTSlJFyT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2MkmvABEXxrKTTSlJFyT-16" value="">
@@ -90,7 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2MkmvABEXxrKTTSlJFyT-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;N3&quot;" vertex="1">
+        <mxCell id="2MkmvABEXxrKTTSlJFyT-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;O maior é&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;N3&quot;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="560" y="460" as="geometry" />
         </mxCell>
         <mxCell id="2MkmvABEXxrKTTSlJFyT-10" edge="1" parent="1" source="2MkmvABEXxrKTTSlJFyT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2MkmvABEXxrKTTSlJFyT-8" value="">
