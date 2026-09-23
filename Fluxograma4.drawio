@@ -61,8 +61,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2MkmvABEXxrKTTSlJFyT-14" edge="1" parent="1" source="2MkmvABEXxrKTTSlJFyT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2MkmvABEXxrKTTSlJFyT-9" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2MkmvABEXxrKTTSlJFyT-14" edge="1" parent="1" source="2MkmvABEXxrKTTSlJFyT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2MkmvABEXxrKTTSlJFyT-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="490" />
+            </Array>
+            <mxPoint x="414" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2MkmvABEXxrKTTSlJFyT-15" connectable="0" parent="2MkmvABEXxrKTTSlJFyT-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Não" vertex="1">
           <mxGeometry relative="1" x="-0.15" y="3" as="geometry">
@@ -86,28 +91,12 @@
         <mxCell id="2MkmvABEXxrKTTSlJFyT-19" edge="1" parent="1" source="2MkmvABEXxrKTTSlJFyT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2MkmvABEXxrKTTSlJFyT-16" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="620" />
+              <mxPoint x="530" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2MkmvABEXxrKTTSlJFyT-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;O maior é&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;N3&quot;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="2MkmvABEXxrKTTSlJFyT-10" edge="1" parent="1" source="2MkmvABEXxrKTTSlJFyT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2MkmvABEXxrKTTSlJFyT-8" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="500" />
-              <mxPoint x="520" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2MkmvABEXxrKTTSlJFyT-11" connectable="0" parent="2MkmvABEXxrKTTSlJFyT-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sim" vertex="1">
-          <mxGeometry relative="1" x="-0.1081" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2MkmvABEXxrKTTSlJFyT-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="N3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&amp;gt; N1 N3 &amp;gt; N2&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="104" x="362" y="460" as="geometry" />
+          <mxGeometry height="60" width="120" x="474" y="460" as="geometry" />
         </mxCell>
         <mxCell id="2MkmvABEXxrKTTSlJFyT-20" edge="1" parent="1" source="2MkmvABEXxrKTTSlJFyT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="g9higvrCz6SW67p7wJMG-2" value="">
           <mxGeometry relative="1" as="geometry" />
