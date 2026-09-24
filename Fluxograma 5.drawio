@@ -44,8 +44,8 @@
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-12" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_xb7VlN_l-QH6HaYy9nv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_xb7VlN_l-QH6HaYy9nv-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;valor acumulado Media&quot;" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="810" as="geometry" />
+        <mxCell id="_xb7VlN_l-QH6HaYy9nv-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;valor acumulado Media nº de parcelas digitado NC&quot;" vertex="1">
+          <mxGeometry height="60" width="160" x="20" y="808" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-13" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="_xb7VlN_l-QH6HaYy9nv-8">
           <mxGeometry relative="1" as="geometry" />
