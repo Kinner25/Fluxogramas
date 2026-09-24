@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="31c6yIXBjNCbNjQVsPlj">
-    <mxGraphModel dx="1571" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1768" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
         <mxCell id="T1kortHxu-TNf3xWxwv9-4" edge="1" parent="1" source="T1kortHxu-TNf3xWxwv9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_xb7VlN_l-QH6HaYy9nv-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T1kortHxu-TNf3xWxwv9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Media=NTotal / NC" vertex="1">
+        <mxCell id="T1kortHxu-TNf3xWxwv9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Media= NTotal / NC" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="685" as="geometry" />
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-18" edge="1" parent="1" source="T1kortHxu-TNf3xWxwv9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_xb7VlN_l-QH6HaYy9nv-3">
@@ -69,7 +69,7 @@
         <mxCell id="T1kortHxu-TNf3xWxwv9-16" edge="1" parent="1" source="T1kortHxu-TNf3xWxwv9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_xb7VlN_l-QH6HaYy9nv-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T1kortHxu-TNf3xWxwv9-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="NC=0" vertex="1">
+        <mxCell id="T1kortHxu-TNf3xWxwv9-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="NC = 0&lt;div&gt;NTotal = 0&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="170" as="geometry" />
         </mxCell>
       </root>
