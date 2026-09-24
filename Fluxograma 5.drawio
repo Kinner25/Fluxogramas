@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Fim" vertex="1">
-          <mxGeometry height="80" width="120" x="40" y="930" as="geometry" />
+          <mxGeometry height="80" width="120" x="335" y="920" as="geometry" />
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-15" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T1kortHxu-TNf3xWxwv9-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Inicio" vertex="1">
-          <mxGeometry height="80" width="120" x="40" y="50" as="geometry" />
+          <mxGeometry height="80" width="120" x="335" y="40" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-6" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_xb7VlN_l-QH6HaYy9nv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Ler N1" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="270" as="geometry" />
+          <mxGeometry height="60" width="120" x="335" y="260" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NTotal + N1&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="335" y="380" as="geometry" />
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-2" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T1kortHxu-TNf3xWxwv9-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -39,13 +39,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="1000&amp;lt;N4" vertex="1">
-          <mxGeometry height="100" width="110" x="45" y="510" as="geometry" />
+          <mxGeometry height="100" width="110" x="340" y="500" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-12" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_xb7VlN_l-QH6HaYy9nv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_xb7VlN_l-QH6HaYy9nv-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;valor acumulado Media nº de parcelas digitado NC&quot;" vertex="1">
-          <mxGeometry height="60" width="160" x="20" y="808" as="geometry" />
+        <mxCell id="_xb7VlN_l-QH6HaYy9nv-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Escrever &quot;o valor acumulado é Media e o nº de parcelas digitado é NC&quot;" vertex="1">
+          <mxGeometry height="60" width="230" x="280" y="798" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-13" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="_xb7VlN_l-QH6HaYy9nv-8">
           <mxGeometry relative="1" as="geometry" />
@@ -54,23 +54,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Media= NTotal / NC" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="685" as="geometry" />
+          <mxGeometry height="60" width="120" x="335" y="675" as="geometry" />
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-18" edge="1" parent="1" source="T1kortHxu-TNf3xWxwv9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="_xb7VlN_l-QH6HaYy9nv-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="300" />
+              <mxPoint x="595" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="NC + 1" vertex="1">
-          <mxGeometry height="60" width="120" x="240" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="535" y="380" as="geometry" />
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-16" edge="1" parent="1" source="T1kortHxu-TNf3xWxwv9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_xb7VlN_l-QH6HaYy9nv-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T1kortHxu-TNf3xWxwv9-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="NC = 0&lt;div&gt;NTotal = 0&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="170" as="geometry" />
+          <mxGeometry height="60" width="120" x="335" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
