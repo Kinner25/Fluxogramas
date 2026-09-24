@@ -38,7 +38,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_xb7VlN_l-QH6HaYy9nv-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="1000&amp;gt;=N4" vertex="1">
+        <mxCell id="_xb7VlN_l-QH6HaYy9nv-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="1000&amp;lt;N4" vertex="1">
           <mxGeometry height="100" width="110" x="45" y="510" as="geometry" />
         </mxCell>
         <mxCell id="_xb7VlN_l-QH6HaYy9nv-12" edge="1" parent="1" source="_xb7VlN_l-QH6HaYy9nv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_xb7VlN_l-QH6HaYy9nv-1">
