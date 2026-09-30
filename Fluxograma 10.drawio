@@ -103,6 +103,9 @@
         <mxCell id="_Xhw1lWgEvZJglsZtUxF-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Imprime &quot;Dinossauro&quot;" vertex="1">
           <mxGeometry height="60" width="120" x="485" y="750" as="geometry" />
         </mxCell>
+        <mxCell id="iSv-RCyYBtqQmqnWnPZD-9" edge="1" parent="1" source="_Xhw1lWgEvZJglsZtUxF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iSv-RCyYBtqQmqnWnPZD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_Xhw1lWgEvZJglsZtUxF-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="390" y="890" as="geometry" />
         </mxCell>
@@ -129,6 +132,9 @@
         </mxCell>
         <mxCell id="iSv-RCyYBtqQmqnWnPZD-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="0 &amp;gt; N" vertex="1">
           <mxGeometry height="80" width="80" x="360" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="iSv-RCyYBtqQmqnWnPZD-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
